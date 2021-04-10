@@ -8,7 +8,7 @@
       </parallax>
       <div class="content-center">
         <div class="container">
-          <h1 class="title">This is our great company.</h1>
+          <h1 class="title">Stephen Mistele</h1>
           <div class="text-center">
             <a href="#pablo" class="btn btn-primary btn-icon btn-round">
               <i class="fab fa-facebook-square"></i>
@@ -27,16 +27,81 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto text-center">
-            <h2 class="title">Who we are?</h2>
+            <h2 class="title">Who am I?</h2>
             <h5 class="description">
-              According to the National Oceanic and Atmospheric Administration,
-              Ted, Scambos, NSIDClead scentist, puts the potentially record low
-              maximum sea ice extent tihs year down to low ice extent in the
-              Pacific and a late drop in ice extent in the Barents Sea.
+              Founder&CEO PANTERIX. API+Backend Engineer. Published Author.
+              Website Developer. Pantent Holder. Cloud Database Engineer.
+              Teacher. Mobile App Developer. Project Manager.
             </h5>
           </div>
         </div>
         <div class="separator separator-primary"></div>
+      </div>
+    </div>
+
+      <div class="row row-cols-1 row-cols-md-4 g-4 text-center justify-content-center">
+        <div class="col">
+          <div class="card h-70">
+            <img
+              src="https://mdbootstrap.com/img/new/standard/city/044.jpg"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                This is a wider card with supporting text below as a natural
+                lead-in to additional content. This content is a little bit
+                longer.
+              </p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-70">
+            <img
+              src="https://mdbootstrap.com/img/new/standard/city/043.jpg"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                This card has supporting text below as a natural lead-in to
+                additional content.
+              </p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+          </div>
+        </div>
+        <div class="col">
+          <div class="card h-70">
+            <img
+              src="https://mdbootstrap.com/img/new/standard/city/042.jpg"
+              class="card-img-top"
+              alt="..."
+            />
+            <div class="card-body">
+              <h5 class="card-title">Card title</h5>
+              <p class="card-text">
+                This is a wider card with supporting text below as a natural
+                lead-in to additional content. This card has even longer content
+                than the first to show that equal height action.
+              </p>
+            </div>
+            <div class="card-footer">
+              <small class="text-muted">Last updated 3 mins ago</small>
+            </div>
+          </div>
+        </div>
+      </div>
+    <div class="section section-about-us">
+      <div class="container">
         <div class="section-story-overview">
           <div class="row">
             <div class="col-md-6">
@@ -227,23 +292,23 @@
   </div>
 </template>
 <script>
-import { Button, FormGroupInput } from '@/components';
+import { Button, FormGroupInput } from "@/components";
 export default {
-  name: 'landing',
-  bodyClass: 'landing-page',
+  name: "landing",
+  bodyClass: "landing-page",
   components: {
     [Button.name]: Button,
-    [FormGroupInput.name]: FormGroupInput
+    [FormGroupInput.name]: FormGroupInput,
   },
   data() {
     return {
       form: {
-        firstName: '',
-        email: '',
-        message: ''
-      }
+        firstName: "",
+        email: "",
+        message: "",
+      },
     };
-  }
+  },
 };
 </script>
 <style></style>

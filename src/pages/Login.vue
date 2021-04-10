@@ -1,69 +1,69 @@
-<template>
-  <div class="page-header clear-filter" filter-color="orange">
-    <div
-      class="page-header-image"
-      style="background-image: url('img/login.jpg')"
-    ></div>
-    <div class="content">
-      <div class="container">
-        <div class="col-md-5 ml-auto mr-auto">
-          <card type="login" plain>
-            <div slot="header" class="logo-container">
-              <img v-lazy="'img/now-logo.png'" alt="" />
-            </div>
-
-            <fg-input
-              class="no-border input-lg"
-              addon-left-icon="now-ui-icons users_circle-08"
-              placeholder="First Name..."
-            >
-            </fg-input>
-
-            <fg-input
-              class="no-border input-lg"
-              addon-left-icon="now-ui-icons text_caps-small"
-              placeholder="Last Name..."
-            >
-            </fg-input>
-
-            <template slot="raw-content">
-              <div class="card-footer text-center">
-                <a
-                  href="#pablo"
-                  class="btn btn-primary btn-round btn-lg btn-block"
-                  >Get Started</a
-                >
-              </div>
-              <div class="pull-left">
-                <h6>
-                  <a href="#pablo" class="link footer-link">Create Account</a>
-                </h6>
-              </div>
-              <div class="pull-right">
-                <h6>
-                  <a href="#pablo" class="link footer-link">Need Help?</a>
-                </h6>
-              </div>
-            </template>
-          </card>
-        </div>
-      </div>
-    </div>
-    <main-footer></main-footer>
-  </div>
-</template>
 <script>
-import { Card, Button, FormGroupInput } from '@/components';
-import MainFooter from '@/layout/MainFooter';
-export default {
-  name: 'login-page',
-  bodyClass: 'login-page',
-  components: {
-    Card,
-    MainFooter,
-    [Button.name]: Button,
-    [FormGroupInput.name]: FormGroupInput
-  }
-};
+	import { mdbContainer, mdbRow, mdbCard, mdbCardImage, mdbCardBody, mdbCardTitle, mdbCardText, mdbCardGroup, mdbBtn, mdbView, mdbMask, } from 'mdbvue';
+	export default {
+		name: 'CardProPage',
+		components: {
+			mdbContainer,
+			mdbRow,
+			mdbCard,
+			mdbCardImage,
+			mdbCardBody,
+			mdbCardTitle,
+			mdbCardText,
+			mdbCardGroup,
+			mdbBtn,
+			mdbView,
+			mdbMask,
+		}
+	}
 </script>
-<style></style>
+<template>
+	<mdb-container>
+		<mdb-row>
+			<mdb-card-group deck>
+				<mdb-card>
+					<mdb-view hover>
+						<a href="#!">
+							<mdb-card-image src="https://mdbootstrap.com/img/Photos/Others/images/16.jpg" alt="Card image cap"></mdb-card-image>
+							<mdb-mask flex-center waves overlay="white-slight"></mdb-mask>
+						</a>
+					</mdb-view>
+					<mdb-card-body>
+						<mdb-card-title>Card title</mdb-card-title>
+						<mdb-card-text>Some quick example text to build on the card title and make up the bulk of the
+							card's content.</mdb-card-text>
+						<mdb-btn color="primary">Read more</mdb-btn>
+					</mdb-card-body>
+				</mdb-card>
+				<mdb-card>
+					<mdb-view hover>
+						<a href="#!">
+							<mdb-card-image src="https://mdbootstrap.com/img/Photos/Others/images/14.jpg" alt="Card image cap"></mdb-card-image>
+							<mdb-mask flex-center waves overlay="white-slight"></mdb-mask>
+						</a>
+					</mdb-view>
+					<mdb-card-body>
+						<mdb-card-title>Card title</mdb-card-title>
+						<mdb-card-text>Some quick example text to build on the card title and make up the bulk of the
+							card's content.</mdb-card-text>
+						<mdb-btn color="primary">Read more</mdb-btn>
+					</mdb-card-body>
+				</mdb-card>
+				<mdb-card>
+					<mdb-view hover>
+						<a href="#!">
+							<mdb-card-image src="https://mdbootstrap.com/img/Photos/Others/images/15.jpg" alt="Card image cap"></mdb-card-image>
+							<mdb-mask flex-center waves overlay="white-slight"></mdb-mask>
+						</a>
+					</mdb-view>
+					<mdb-card-body>
+						<mdb-card-title>Card title</mdb-card-title>
+						<mdb-card-text>Some quick example text to build on the card title and make up the bulk of the
+							card's content.</mdb-card-text>
+						<mdb-btn color="primary">Read more</mdb-btn>
+					</mdb-card-body>
+				</mdb-card>
+			</mdb-card-group>
+		</mdb-row>
+	</mdb-container>
+</template>
