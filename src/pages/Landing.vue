@@ -3,7 +3,7 @@
     <div class="page-header page-header-small">
       <parallax
         class="page-header-image"
-        style="background-image: url('img/bg6.jpg')"
+        style="background-image: url('img/m1.jfif')"
       >
       </parallax>
       <div class="content-center">
@@ -29,7 +29,7 @@
           <div class="col-md-8 ml-auto mr-auto text-center">
             <h2 class="title">Who am I?</h2>
             <h5 class="description">
-              Founder&CEO PANTERIX. API+Backend Engineer. Published Author.
+              PANTERIX Founder&CEO. API+Backend Engineer. Published Author.
               Website Developer. Pantent Holder. Cloud Database Engineer.
               Teacher. Mobile App Developer. Project Manager.
             </h5>
@@ -39,8 +39,11 @@
       </div>
     </div>
 
-      <div class="row row-cols-1 row-cols-md-4 g-4 text-center justify-content-center">
-        <div class="col">
+    <div
+      class="row row-cols-1 row-cols-md-4 g-4 text-center justify-content-center"
+    >
+      <div class="col">
+        <a href="http://example.com">
           <div class="card h-70">
             <img
               src="https://mdbootstrap.com/img/new/standard/city/044.jpg"
@@ -59,8 +62,10 @@
               <small class="text-muted">Last updated 3 mins ago</small>
             </div>
           </div>
-        </div>
-        <div class="col">
+        </a>
+      </div>
+      <div class="col">
+        <a href="http://example.com">
           <div class="card h-70">
             <img
               src="https://mdbootstrap.com/img/new/standard/city/043.jpg"
@@ -78,8 +83,10 @@
               <small class="text-muted">Last updated 3 mins ago</small>
             </div>
           </div>
-        </div>
-        <div class="col">
+        </a>
+      </div>
+      <div class="col">
+        <a href="http://example.com">
           <div class="card h-70">
             <img
               src="https://mdbootstrap.com/img/new/standard/city/042.jpg"
@@ -98,8 +105,9 @@
               <small class="text-muted">Last updated 3 mins ago</small>
             </div>
           </div>
-        </div>
+        </a>
       </div>
+    </div>
     <div class="section section-about-us">
       <div class="container">
         <div class="section-story-overview">
