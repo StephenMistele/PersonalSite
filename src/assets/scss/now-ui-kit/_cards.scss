@@ -4,6 +4,9 @@
   display: inline-block;
   position: relative;
   width: 100%;
+  @media(max-width:767px){
+    width: 90%;
+  }
   margin-bottom: 30px;
   box-shadow: 0px 5px 25px 0px rgba(0, 0, 0, 0.2);
 
@@ -16,11 +19,13 @@
   }
 
   .card-text{
-    color:rgba(44, 44, 44, 1);
+    color:rgba(44, 44, 44, .8);
+    font-weight: 400;
   }
 
   .card-title{
-    color:rgba(44, 44, 44, 1);
+    color:rgba(44, 44, 44, .8);
+    font-weight: 600;
   }
 
   .card-footer{

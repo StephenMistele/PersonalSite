@@ -10,14 +10,23 @@
         <div class="container">
           <h1 class="title">Stephen Mistele</h1>
           <div class="text-center">
-            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-facebook-square"></i>
+            <a
+              href="https://www.linkedin.com/in/stephenmistele/"
+              class="btn btn-primary btn-icon btn-round"
+            >
+              <i class="fab fa-linkedin"></i>
             </a>
-            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-twitter"></i>
+            <a
+              href="https://github.com/StephenMistele"
+              class="btn btn-primary btn-icon btn-round"
+            >
+              <i class="fab fa-github"></i>
             </a>
-            <a href="#pablo" class="btn btn-primary btn-icon btn-round">
-              <i class="fab fa-google-plus"></i>
+            <a
+              href="https://www.instagram.com/tall_stephen/"
+              class="btn btn-primary btn-icon btn-round"
+            >
+              <i class="fab fa-instagram"></i>
             </a>
           </div>
         </div>
@@ -27,11 +36,14 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto text-center">
-            <h2 class="title">Who am I?</h2>
+            <h2 class="title">Hi, I'm Stephen. Nice to meet you.</h2>
             <h5 class="description">
-              PANTERIX Founder&CEO. API+Backend Engineer. Published Author.
+              The only thing I love more than programming is sharing my passion with others. It's probably why I spent my afternoons
+               in High School teaching Scratch to classrooms full of students. Since then, I've led Hackathon teams, 
+               made websites and mobile apps, and even started my own buisness. <br/> Check out some of my projects!
+              <!-- PANTERIX Founder&CEO. API+Backend Engineer. Published Author.
               Website Developer. Pantent Holder. Cloud Database Engineer.
-              Teacher. Mobile App Developer. Project Manager.
+              Teacher. Mobile App Developer. Project Manager. -->
             </h5>
           </div>
         </div>
@@ -40,218 +52,146 @@
     </div>
 
     <div
-      class="row row-cols-1 row-cols-md-4 g-4 text-center justify-content-center"
+      class="row row-cols-1 row-cols-md-4 row-cols-sm-1 g-4 text-center justify-content-center"
     >
       <div class="col">
         <a href="http://example.com">
           <div class="card h-70">
-            <img
-              src="https://mdbootstrap.com/img/new/standard/city/044.jpg"
-              class="card-img-top"
-              alt="..."
-            />
+            <img src="img/quickbites.png" class="card-img-top" alt="..." />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Hackathon Projects</h5>
               <p class="card-text">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This content is a little bit
-                longer.
+                I love Hackathons. Most recently, I won Microsoft's 'Best Use of
+                Azure' prize at H4H 2020. Check out some of my projects!
               </p>
             </div>
-            <div class="card-footer">
-              <small class="text-muted">Last updated 3 mins ago</small>
-            </div>
+            <div class="card-footer"></div>
           </div>
         </a>
       </div>
       <div class="col">
         <a href="http://example.com">
           <div class="card h-70">
-            <img
-              src="https://mdbootstrap.com/img/new/standard/city/043.jpg"
-              class="card-img-top"
-              alt="..."
-            />
+            <img src="img/Panterixpic.png" class="card-img-top" alt="..." />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">PANTERIX</h5>
               <p class="card-text">
-                This card has supporting text below as a natural lead-in to
-                additional content.
+                PANTERIX is a passion project turned buisness. We created a
+                product to rank roads based on how dangerous they are.
               </p>
             </div>
-            <div class="card-footer">
-              <small class="text-muted">Last updated 3 mins ago</small>
-            </div>
+            <div class="card-footer"></div>
           </div>
         </a>
       </div>
       <div class="col">
         <a href="http://example.com">
           <div class="card h-70">
-            <img
-              src="https://mdbootstrap.com/img/new/standard/city/042.jpg"
-              class="card-img-top"
-              alt="..."
-            />
+            <img src="img/Careerplanning2.png" class="card-img-top" alt="..." />
             <div class="card-body">
-              <h5 class="card-title">Card title</h5>
+              <h5 class="card-title">Career Development</h5>
               <p class="card-text">
-                This is a wider card with supporting text below as a natural
-                lead-in to additional content. This card has even longer content
-                than the first to show that equal height action.
+                I've always had a passion for helping fellow students learn real
+                world programming skills. I put together this site to help.
               </p>
             </div>
-            <div class="card-footer">
-              <small class="text-muted">Last updated 3 mins ago</small>
-            </div>
+            <div class="card-footer"></div>
           </div>
         </a>
       </div>
     </div>
-    <div class="section section-about-us">
-      <div class="container">
-        <div class="section-story-overview">
-          <div class="row">
-            <div class="col-md-6">
-              <div
-                class="image-container image-left"
-                style="background-image: url('img/login.jpg')"
-              >
-                <!-- First image on the left side -->
-                <p class="blockquote blockquote-primary">
-                  "Over the span of the satellite record, Arctic sea ice has
-                  been declining significantly, while sea ice in the
-                  Antarctichas increased very slightly"
-                  <br />
-                  <br />
-                  <small>-NOAA</small>
-                </p>
-              </div>
-              <!-- Second image on the left side of the article -->
-              <div
-                class="image-container"
-                style="background-image: url('img/bg3.jpg')"
-              ></div>
-            </div>
-            <div class="col-md-5">
-              <!-- First image on the right side, above the article -->
-              <div
-                class="image-container image-right"
-                style="background-image: url('img/bg1.jpg')"
-              ></div>
-              <h3>
-                So what does the new record for the lowest level of winter ice
-                actually mean
-              </h3>
-              <p>
-                The Arctic Ocean freezes every winter and much of the sea-ice
-                then thaws every summer, and that process will continue whatever
-                happens with climate change. Even if the Arctic continues to be
-                one of the fastest-warming regions of the world, it will always
-                be plunged into bitterly cold polar dark every winter. And
-                year-by-year, for all kinds of natural reasons, there’s huge
-                variety of the state of the ice.
-              </p>
-              <p>
-                For a start, it does not automatically follow that a record
-                amount of ice will melt this summer. More important for
-                determining the size of the annual thaw is the state of the
-                weather as the midnight sun approaches and temperatures rise.
-                But over the more than 30 years of satellite records, scientists
-                have observed a clear pattern of decline, decade-by-decade.
-              </p>
-              <p>
-                The Arctic Ocean freezes every winter and much of the sea-ice
-                then thaws every summer, and that process will continue whatever
-                happens with climate change. Even if the Arctic continues to be
-                one of the fastest-warming regions of the world, it will always
-                be plunged into bitterly cold polar dark every winter. And
-                year-by-year, for all kinds of natural reasons, there’s huge
-                variety of the state of the ice.
+
+    <div
+      class="row row-cols-1 row-cols-md-4 row-cols-sm-1 g-4 text-center justify-content-center"
+    >
+      <div class="col">
+        <a href="http://example.com">
+          <div class="card h-70">
+            <img src="img/paper.png" class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Research Papers</h5>
+              <p class="card-text">
+                I co-authored a research paper on my work at Panterix, and had
+                the opportunity to present my work at tech conferences.
               </p>
             </div>
+            <div class="card-footer"></div>
           </div>
-        </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="http://example.com">
+          <div class="card h-70">
+            <img src="img/acmsite.png" class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">ACM Sites</h5>
+              <p class="card-text">
+                As Webmaster of SCU ACM's board, I'm responsible for making sure
+                their websites look good and are up to date.
+              </p>
+            </div>
+            <div class="card-footer"></div>
+          </div>
+        </a>
+      </div>
+      <div class="col">
+        <a href="http://example.com">
+          <div class="card h-70">
+            <img src="img/patent.jfif" class="card-img-top" alt="..." />
+            <div class="card-body">
+              <h5 class="card-title">Patents</h5>
+              <p class="card-text">
+                As part of my internship at INRIX, I had the opportunity to
+                author a patent on the algorithm I created.
+              </p>
+            </div>
+            <div class="card-footer"></div>
+          </div>
+        </a>
       </div>
     </div>
     <div class="section section-team text-center">
       <div class="container">
-        <h2 class="title">Here is our team</h2>
+        <h2 class="title">About Me</h2>
         <div class="team">
           <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-10 offset-md-1 offset-lg-1">
               <div class="team-player">
                 <img
-                  src="img/avatar.jpg"
+                  src="img/stephen.jfif"
                   alt="Thumbnail Image"
                   class="rounded-circle img-fluid img-raised"
                 />
-                <h4 class="title">Romina Hadid</h4>
-                <p class="category text-primary">Model</p>
-                <p class="description">
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#">links</a> for people to be able to follow
-                  them outside the site.
+                <h4 class="title">Stephen Mistele</h4>
+                <p class="category text-primary">
+                  Santa Clara University, Class of 2023
                 </p>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-instagram"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-facebook-square"></i
-                ></a>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="team-player">
-                <img
-                  src="img/ryan.jpg"
-                  alt="Thumbnail Image"
-                  class="rounded-circle img-fluid img-raised"
-                />
-                <h4 class="title">Ryan Tompson</h4>
-                <p class="category text-primary">Designer</p>
                 <p class="description">
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#">links</a> for people to be able to follow
-                  them outside the site.
+                  I'm a very outgoing and outdoorsy person. When I'm not programming, I love tennis, hiking, teaching, and the occasional watersports. 
+                  My passion for teaching is part of what makes me a good leader, and it's why I've taken a leadership role in every project listed above.
+                  As for my tech stack, I've spent notable time working frontend in Vue, React, and React Native, as well as Bootstrap, HTML and CSS.
+                  However, I've found that I'm especially passionate about working backend in everything from C++ to SQL, with favorite technologies 
+                  being ASP.NET API's in C#, and working with cloud databases in Azure Cosmos DB and AWS RDS.
+                  Feel free to check out my <a href="img/Resume.pdf">Resume</a>, connect with me on <a href="https://www.linkedin.com/in/stephenmistele/">LinkedIn</a>, or contact me below!
                 </p>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-twitter"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-linkedin"></i
-                ></a>
-              </div>
-            </div>
-            <div class="col-md-4">
-              <div class="team-player">
-                <img
-                  src="img/eva.jpg"
-                  alt="Thumbnail Image"
-                  class="rounded-circle img-fluid img-raised"
-                />
-                <h4 class="title">Eva Jenner</h4>
-                <p class="category text-primary">Fashion</p>
-                <p class="description">
-                  You can write here details about one of your team members. You
-                  can give more details about what they do. Feel free to add
-                  some <a href="#">links</a> for people to be able to follow
-                  them outside the site.
-                </p>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-google-plus"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-youtube"></i
-                ></a>
-                <a href="#pablo" class="btn btn-primary btn-icon btn-round"
-                  ><i class="fab fa-twitter"></i
-                ></a>
+                <a
+                  href="https://www.linkedin.com/in/stephenmistele/"
+                  class="btn btn-primary btn-icon btn-round"
+                >
+                  <i class="fab fa-linkedin"></i>
+                </a>
+                <a
+                  href="https://github.com/StephenMistele"
+                  class="btn btn-primary btn-icon btn-round"
+                >
+                  <i class="fab fa-github"></i>
+                </a>
+                <a
+                  href="https://www.instagram.com/tall_stephen/"
+                  class="btn btn-primary btn-icon btn-round"
+                >
+                  <i class="fab fa-instagram"></i>
+                </a>
               </div>
             </div>
           </div>
@@ -260,8 +200,10 @@
     </div>
     <div class="section section-contact-us text-center">
       <div class="container">
-        <h2 class="title">Want to work with us?</h2>
-        <p class="description">Your project is very important to us.</p>
+        <h2 class="title">Want to get in touch?</h2>
+        <p class="description">
+          I love meeting new people. Feel free to reach out!
+        </p>
         <div class="row">
           <div class="col-lg-6 text-center ml-auto mr-auto col-md-8">
             <fg-input
