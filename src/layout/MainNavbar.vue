@@ -26,19 +26,19 @@
         <nav-link to="/Hackathon">
           Hackathon Projects
         </nav-link>
-        <nav-link to="/Landing">
+        <nav-link to="/Panterix">
           Panterix
         </nav-link>
-        <nav-link to="/">
+        <nav-link to="/Career">
           Career Development
         </nav-link>
-        <nav-link to="/">
+        <nav-link to="/Papers">
           Research Papers
         </nav-link>
-        <nav-link to="/">
+        <nav-link to="/ACM">
           ACM Sites
         </nav-link>
-        <nav-link to="/">
+        <nav-link to="/Internships">
           Patents
         </nav-link>
       </drop-down>

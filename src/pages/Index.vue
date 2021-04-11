@@ -1,4 +1,3 @@
-    <button type="button" class="btn btn-round btn-primary"><!---->sdlhfksdlkfsdjflk<!----></button>
 <template>
   <div>
     <div class="page-header page-header-small">
@@ -66,7 +65,7 @@
               <h5 class="card-title">Hackathon Projects</h5>
               <p class="card-text">
                 I love Hackathons. Most recently, I won Microsoft's 'Best Use of
-                Azure' prize at H4H 2020. Check out some of my projects!
+                Azure' prize at H4H 2021. Check out some of my projects!
               </p>
             </div>
             <div class="card-footer"></div>
@@ -74,7 +73,7 @@
         </a>
       </div>
       <div class="col">
-        <a href="http://example.com">
+        <a href="#/Panterix">
           <div class="card h-70">
             <img src="img/Panterixpic.png" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -89,7 +88,7 @@
         </a>
       </div>
       <div class="col">
-        <a href="http://example.com">
+        <a href="#/Career">
           <div class="card h-70">
             <img src="img/Careerplanning2.png" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -108,7 +107,7 @@
       class="row row-cols-1 row-cols-md-4 row-cols-sm-1 g-4 text-center justify-content-center"
     >
       <div class="col">
-        <a href="http://example.com">
+        <a href="#/Papers">
           <div class="card h-70">
             <img src="img/paper.png" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -123,7 +122,7 @@
         </a>
       </div>
       <div class="col">
-        <a href="http://example.com">
+        <a href="#/ACM">
           <div class="card h-70">
             <img src="img/acmsite.png" class="card-img-top" alt="..." />
             <div class="card-body">
@@ -138,7 +137,7 @@
         </a>
       </div>
       <div class="col">
-        <a href="http://example.com">
+        <a href="#/Internships">
           <div class="card h-70">
             <img src="img/patent.jfif" class="card-img-top" alt="..." />
             <div class="card-body">
