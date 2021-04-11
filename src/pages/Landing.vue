@@ -3,7 +3,7 @@
     <div class="page-header page-header-small">
       <parallax
         class="page-header-image"
-        style="background-image: url('img/m1.jfif')"
+        style="background-image: url('img/bg1.jpg')"
       >
       </parallax>
       <div class="content-center">
@@ -259,6 +259,7 @@ export default {
       },
     };
   },
+
 };
 </script>
 <style></style>

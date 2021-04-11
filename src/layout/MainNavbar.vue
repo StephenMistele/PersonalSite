@@ -7,7 +7,7 @@
     menu-classes="ml-auto"
   >
     <template>
-      <router-link v-popover:popover1 class="navbar-brand" to="/landing">
+      <router-link v-popover:popover1 class="navbar-brand" to="/">
         <b>Home</b>
       </router-link>
     </template>
@@ -20,13 +20,13 @@
               title="Pages"
               class="nav-item"
       >
-        <nav-link to="/landing">
+        <nav-link to="/">
           Home
         </nav-link>
-        <nav-link to="/landing">
+        <nav-link to="/Hackathon">
           Hackathon Projects
         </nav-link>
-        <nav-link to="/">
+        <nav-link to="/Landing">
           Panterix
         </nav-link>
         <nav-link to="/">
