@@ -20,10 +20,7 @@
         </ul>
       </nav>
       <div class="copyright">
-        &copy; {{ year }}, Designed by Stephen Mistele. Template by
-        <a href="https://www.creative-tim.com" target="_blank" rel="noopener"
-          >Creative Tim</a
-        >.
+        &copy; {{ year }}, Designed by Stephen Mistele. 
       </div>
     </div>
   </footer>

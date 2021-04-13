@@ -19,60 +19,42 @@
         Stephen's Site
       </router-link>
     </template>
-    
+
     <template slot="navbar-menu">
       <li class="nav-item">
-        <a
-          class="nav-link"
-          href="#/Hackathon"
-        >
-          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-          <p>Hackathons</p>
+        <a class="nav-link" href="#/Hackathon">
+          <i class="fas fa-laptop"></i>
+          <p>&zwnj;&#160;Hackathons</p>
         </a>
       </li>
       <li class="nav-item">
-        <a
-          class="nav-link"
-          href="#/Panterix"
-        >
-          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-          <p>PANTERIX</p>
+        <a class="nav-link" href="#/Panterix">
+          <i class="fas fa-map-marker-alt"></i>
+          <p>&zwnj;&#160;PANTERIX</p>
         </a>
       </li>
       <li class="nav-item">
-        <a
-          class="nav-link"
-          href="#/Career"
-        >
-          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-          <p>Career Development</p>
+        <a class="nav-link" href="#/Career">
+          <i class="far fa-handshake"></i>
+          <p>&zwnj;&#160;Career Development</p>
         </a>
       </li>
       <li class="nav-item">
-        <a
-          class="nav-link"
-          href="#/Papers"
-        >
-          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-          <p>Papers</p>
+        <a class="nav-link" href="#/Papers">
+          <i class="fas fa-edit"></i>
+          <p>&zwnj;&#160;Papers</p>
         </a>
       </li>
       <li class="nav-item">
-        <a
-          class="nav-link"
-          href="#/ACM"
-        >
-          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-          <p>ACM Sites</p>
+        <a class="nav-link" href="#/ACM">
+          <i class="fas fa-sitemap"></i>
+          <p>&zwnj;&#160;ACM Sites</p>
         </a>
       </li>
       <li class="nav-item">
-        <a
-          class="nav-link"
-          href="#/Internships"
-        >
-          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
-          <p>Internships</p>
+        <a class="nav-link" href="#/Internships">
+          <i class="fas fa-briefcase"></i>
+          <p>&zwnj;&#160;Internships</p>
         </a>
       </li>
     </template>
@@ -81,18 +63,18 @@
 
 <script src="https://kit.fontawesome.com/517c44607b.js" crossorigin="anonymous"></script>
 <script>
-import { Navbar } from '@/components';
-import { Popover } from 'element-ui';
+import { Navbar } from "@/components";
+import { Popover } from "element-ui";
 export default {
-  name: 'main-navbar',
+  name: "main-navbar",
   props: {
     transparent: Boolean,
-    colorOnScroll: Number
+    colorOnScroll: Number,
   },
   components: {
     Navbar,
-    [Popover.name]: Popover
-  }
+    [Popover.name]: Popover,
+  },
 };
 </script>
 

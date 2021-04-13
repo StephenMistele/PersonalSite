@@ -3,12 +3,21 @@
     <div class="page-header page-header-small">
       <parallax
         class="page-header-image"
-        style="background-image: url('img/hackathonimg.jpg')"
+        style="background-image: url('img/panterixhome.png')"
       >
       </parallax>
       <div class="content-center">
         <div class="container">
-          <h1 class="title">Hackathon Projects</h1>
+          <h1 class="title">Panterix</h1>
+          <div class="text-center">
+            <a
+              href="http://panterix.com/"
+              class="btn btn-primary btn-round"
+              target="_blank"
+            >
+              <b>Visit Panterix.com</b>
+            </a>
+          </div>
         </div>
       </div>
     </div>
@@ -16,11 +25,35 @@
       <div class="container">
         <div class="row">
           <div class="col-md-8 ml-auto mr-auto text-center">
-            <h2 class="title">I LOVE Hackathons</h2>
+            <h2 class="title">Our Journey</h2>
             <h5 class="description">
-              Hackathons are pretty much my favorite thing to do, and I could
-              talk about them all day. Hack for Humanity 2021 was a highlight of
-              my Sophomore year. Here was our pitch.
+              Panterix started as a hackathon project during <a href="https://devpost.com/software/saferides-t7hqnf" target="_blank"> Hack for Humanity 2020. </a>
+              The idea was to aggregate traffic accident data to see if any roads had an unusually high number of accidents. From here, our 'dangerous roads' database
+              could be used in everything from helping governments prioritize road repair to helping insurance companies customize rates.
+            </h5>
+            <br/>
+            <center>
+              <div class="video-wrap">
+                <div class="video-container">
+                  <img
+                    src="img/panpitch.png"
+                    alt="Thumbnail Image"
+                    class="box img-fluid img-raised group"
+                  />
+                </div>
+              </div>
+            </center>
+            <h5 class="description">
+              After the hackathon, I pitched the project to one of my professors. We started a research project as part of 
+              <a href="https://www.scu.edu/engineering/faculty/shaghaghi-navid/epic-lab/" target="_blank">Epic labs</a> 
+              with the intention of one day turning this idea into a buisness. 
+            </h5>
+            <h5 class="description">
+              Those dreams quickly became reality when we applied to Santa Clara's <a href="https://www.scu.edu/cioccacenter/bronco-ventures/bronco-venture-accelerator/" 
+              target="_blank">Bronco Venture Accelerator</a>.
+              It was a very difficult and competitive application process, but against all odds we 
+              <a href="https://airtable.com/shr2lLkVBKWiiuCnc/tblu7ghpgXFqkQrU4" target="_blank">got in</a>!
+              At the end of the 10-week course we got to present our idea to hundreds of venture capitalist investors. Here was our pitch.
             </h5>
             <center>
               <div class="video-wrap">
@@ -31,44 +64,14 @@
                 </div>
               </div>
             </center>
+            <br/>
+            <br/>
+            <h2 class="title">Where we are now</h2>
             <h5 class="description">
-              <br />
-              And here's a link to our devpost
+              We've already completed our 'Danger Database' and implemented various API's to distribute the data. We're currently finishing our danger-based
+              routing product (it allows users to choose routes based on speed <i>and</i> danger) as well as continuing talks with potential investors to 
+              take the buisness to the next level.
             </h5>
-            <a href="https://devpost.com/software/quick-bites">
-              <button type="button" class="btn btn-round btn-primary">
-                <!---->Hackathon 2021 Devpost<!---->
-              </button>
-            </a>
-            <br />
-            <br />
-            <h3 class="title">Hack for Humanity 2020</h3>
-            <h5 class="description">
-              Hack for Humanity 2020 was a real breakthrough for my coding
-              confidence. It helped me learn real world skills, and it was my
-              first time using frontend languages and frameworks. It definitely
-              helps show how far I've come!
-            </h5>
-            <center>
-              <div class="video-wrap">
-                <div class="video-container">
-                  <img
-                    src="img/team.jpg"
-                    alt="Thumbnail Image"
-                    class="box img-fluid img-raised group"
-                  />
-                </div>
-              </div>
-            </center>
-            <h5 class="description">
-              <br />
-              And of course, the devpost
-            </h5>
-            <a href="https://devpost.com/software/saferides-t7hqnf">
-              <button type="button" class="btn btn-round btn-primary">
-                <!---->Hackathon 2020 Devpost<!---->
-              </button>
-            </a>
           </div>
         </div>
         <div class="separator separator-primary"></div>
