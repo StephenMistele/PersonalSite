@@ -55,6 +55,34 @@
       }
     }
 
+    .navbar-brand,
+    .bootstrap-select &.inner li a{
+      font-size: $font-size-small;
+      padding-top: .6rem;
+      padding-bottom: .6rem;
+      margin-top: 5px;
+      @include transition($fast-transition-time, $transition-linear);
+
+      &:hover,
+      &:focus{
+        background-color: $opacity-gray-3;
+      }
+      &.active {
+        background-color: $primary-color;
+        color: white;
+      }
+
+      &.disabled,
+      &:disabled{
+        color: $default-color-opacity;
+
+        &:hover,
+        &:focus{
+          background-color: transparent;
+        }
+      }
+    }
+
     &:before{
         display: inline-block;
         position: absolute;

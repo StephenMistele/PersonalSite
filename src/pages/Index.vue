@@ -13,18 +13,21 @@
             <a
               href="https://www.linkedin.com/in/stephenmistele/"
               class="btn btn-primary btn-icon btn-round"
+              target="_blank"
             >
               <i class="fab fa-linkedin"></i>
             </a>
             <a
               href="https://github.com/StephenMistele"
               class="btn btn-primary btn-icon btn-round"
+              target="_blank"
             >
               <i class="fab fa-github"></i>
             </a>
             <a
               href="https://www.instagram.com/tall_stephen/"
               class="btn btn-primary btn-icon btn-round"
+              target="_blank"
             >
               <i class="fab fa-instagram"></i>
             </a>
@@ -59,7 +62,7 @@
     >
       <div class="col">
         <a href="#/Hackathon">
-          <div class="card h-70">
+          <div class="card h-85">
             <img src="img/quickbites.png" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">Hackathon Projects</h5>
@@ -74,7 +77,7 @@
       </div>
       <div class="col">
         <a href="#/Panterix">
-          <div class="card h-70">
+          <div class="card h-85">
             <img src="img/Panterixpic.png" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">PANTERIX</h5>
@@ -89,7 +92,7 @@
       </div>
       <div class="col">
         <a href="#/Career">
-          <div class="card h-70">
+          <div class="card h-85">
             <img src="img/Careerplanning2.png" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">Career Development</h5>
@@ -108,7 +111,7 @@
     >
       <div class="col">
         <a href="#/Papers">
-          <div class="card h-70">
+          <div class="card h-85">
             <img src="img/paper.png" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">Research Papers</h5>
@@ -123,7 +126,7 @@
       </div>
       <div class="col">
         <a href="#/ACM">
-          <div class="card h-70">
+          <div class="card h-85">
             <img src="img/acmsite.png" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">ACM Sites</h5>
@@ -138,7 +141,7 @@
       </div>
       <div class="col">
         <a href="#/Internships">
-          <div class="card h-70">
+          <div class="card h-85">
             <img src="img/patent.jfif" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">Patents</h5>
@@ -180,26 +183,29 @@
                   backend in everything from C++ to SQL, with favorite
                   technologies being ASP.NET API's in C#, and working with cloud
                   databases in Azure Cosmos DB and AWS RDS. Feel free to check
-                  out my <a href="img/Resume.pdf">Resume</a>, connect with me on
-                  <a href="https://www.linkedin.com/in/stephenmistele/"
+                  out my <a href="img/Resume.pdf" target="_blank">Resume</a>, connect with me on
+                  <a href="https://www.linkedin.com/in/stephenmistele/" target="_blank"
                     >LinkedIn</a
                   >, or contact me below!
                 </p>
                 <a
                   href="https://www.linkedin.com/in/stephenmistele/"
                   class="btn btn-primary btn-icon btn-round"
+                  target="_blank"
                 >
                   <i class="fab fa-linkedin"></i>
                 </a>
                 <a
                   href="https://github.com/StephenMistele"
                   class="btn btn-primary btn-icon btn-round"
+                  target="_blank"
                 >
                   <i class="fab fa-github"></i>
                 </a>
                 <a
                   href="https://www.instagram.com/tall_stephen/"
                   class="btn btn-primary btn-icon btn-round"
+                  target="_blank"
                 >
                   <i class="fab fa-instagram"></i>
                 </a>

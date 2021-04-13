@@ -8,12 +8,12 @@
       <nav>
         <ul>
           <li>
-            <a href="https://www.linkedin.com/in/stephenmistele/">
+            <a href="https://www.linkedin.com/in/stephenmistele/" target="_blank">
               LinkedIn
             </a>
           </li>
           <li>
-            <a href="https://github.com/StephenMistele">
+            <a href="https://github.com/StephenMistele" target="_blank">
               GitHub
             </a>
           </li>

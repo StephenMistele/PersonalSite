@@ -7,47 +7,81 @@
     menu-classes="ml-auto"
   >
     <template>
+      <!-- <li class="nav-item">
+        <a
+          class="nav-link"
+          href="#/"
+        >
+          <p>Stephen's Site</p>
+        </a>
+      </li> -->
       <router-link v-popover:popover1 class="navbar-brand" to="/">
-        <b>Home</b>
+        Stephen's Site
       </router-link>
     </template>
-    <!-- <template>
-      <b class="text-center">Stephen's Site</b>
-    </template> -->
+    
     <template slot="navbar-menu">
-      <drop-down
-              tag="li"
-              title="Pages"
-              class="nav-item"
-      >
-        <nav-link to="/">
-          Home
-        </nav-link>
-        <nav-link to="/Hackathon">
-          Hackathon Projects
-        </nav-link>
-        <nav-link to="/Panterix">
-          Panterix
-        </nav-link>
-        <nav-link to="/Career">
-          Career Development
-        </nav-link>
-        <nav-link to="/Papers">
-          Research Papers
-        </nav-link>
-        <nav-link to="/ACM">
-          ACM Sites
-        </nav-link>
-        <nav-link to="/Internships">
-          Patents
-        </nav-link>
-      </drop-down>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          href="#/Hackathon"
+        >
+          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+          <p>Hackathons</p>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          href="#/Panterix"
+        >
+          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+          <p>PANTERIX</p>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          href="#/Career"
+        >
+          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+          <p>Career Development</p>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          href="#/Papers"
+        >
+          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+          <p>Papers</p>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          href="#/ACM"
+        >
+          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+          <p>ACM Sites</p>
+        </a>
+      </li>
+      <li class="nav-item">
+        <a
+          class="nav-link"
+          href="#/Internships"
+        >
+          <i class="now-ui-icons arrows-1_cloud-download-93"></i>
+          <p>Internships</p>
+        </a>
+      </li>
     </template>
   </navbar>
 </template>
 
+<script src="https://kit.fontawesome.com/517c44607b.js" crossorigin="anonymous"></script>
 <script>
-import { DropDown, Navbar, NavLink } from '@/components';
+import { Navbar } from '@/components';
 import { Popover } from 'element-ui';
 export default {
   name: 'main-navbar',
@@ -56,9 +90,7 @@ export default {
     colorOnScroll: Number
   },
   components: {
-    DropDown,
     Navbar,
-    NavLink,
     [Popover.name]: Popover
   }
 };

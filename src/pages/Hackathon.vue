@@ -36,7 +36,7 @@
               And here's a link to our devpost
             </h5>
             <a href="https://devpost.com/software/quick-bites">
-              <button type="button" class="btn btn-round btn-primary">
+              <button type="button" class="btn btn-round btn-primary btn-lg">
                 <!---->Hackathon 2021 Devpost<!---->
               </button>
             </a>
@@ -65,7 +65,7 @@
               And of course, the devpost
             </h5>
             <a href="https://devpost.com/software/saferides-t7hqnf">
-              <button type="button" class="btn btn-round btn-primary">
+              <button type="button" class="btn btn-round btn-primary btn-lg">
                 <!---->Hackathon 2020 Devpost<!---->
               </button>
             </a>
