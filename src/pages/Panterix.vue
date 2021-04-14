@@ -3,7 +3,7 @@
     <div class="page-header page-header-small">
       <parallax
         class="page-header-image"
-        style="background-image: url('img/panterixhome.png')"
+        style="background-image: url('img/panterixhome1.jpg')"
       >
       </parallax>
       <div class="content-center">
@@ -59,14 +59,14 @@
               <div class="video-wrap">
                 <div class="video-container">
                   <iframe
-                    src="https://www.youtube.com/embed/9yMidKiC3V8"
+                    src="https://www.youtube.com/embed/MSc-iGemIeM"
                   ></iframe>
                 </div>
               </div>
             </center>
             <br/>
             <br/>
-            <h2 class="title">Where we are now</h2>
+            <h2 class="title">Where are we now</h2>
             <h5 class="description">
               We've already completed our 'Danger Database' and implemented various API's to distribute the data. We're currently finishing our danger-based
               routing product (it allows users to choose routes based on speed <i>and</i> danger) as well as continuing talks with potential investors to 
