@@ -36,7 +36,7 @@
               <div class="video-wrap">
                 <div class="video-container">
                   <img
-                    src="img/panpitch.png"
+                    src="img/panpitch.jpg"
                     alt="Thumbnail Image"
                     class="box img-fluid img-raised group"
                   />

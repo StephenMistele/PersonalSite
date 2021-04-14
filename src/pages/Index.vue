@@ -63,7 +63,7 @@
       <div class="col">
         <a href="#/Hackathon">
           <div class="card h-85">
-            <img src="img/quickbites.png" class="card-img-top" alt="..." />
+            <img src="img/quickbites.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">Hackathon Projects</h5>
               <p class="card-text">
@@ -78,7 +78,7 @@
       <div class="col">
         <a href="#/Panterix">
           <div class="card h-85">
-            <img src="img/Panterixpic.png" class="card-img-top" alt="..." />
+            <img src="img/Panterixpic.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">PANTERIX</h5>
               <p class="card-text">
@@ -93,7 +93,7 @@
       <div class="col">
         <a href="#/Career">
           <div class="card h-85">
-            <img src="img/Careerplanning2.png" class="card-img-top" alt="..." />
+            <img src="img/Careerplanning.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">Career Development</h5>
               <p class="card-text">
@@ -112,7 +112,7 @@
       <div class="col">
         <a href="#/Papers">
           <div class="card h-85">
-            <img src="img/paper.png" class="card-img-top" alt="..." />
+            <img src="img/paper.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">Research Papers</h5>
               <p class="card-text">
@@ -127,7 +127,7 @@
       <div class="col">
         <a href="#/ACM">
           <div class="card h-85">
-            <img src="img/acmsite.png" class="card-img-top" alt="..." />
+            <img src="img/acmsite.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">ACM Sites</h5>
               <p class="card-text">
@@ -142,7 +142,7 @@
       <div class="col">
         <a href="#/Internships">
           <div class="card h-85">
-            <img src="img/patent.jfif" class="card-img-top" alt="..." />
+            <img src="img/patent.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
               <h5 class="card-title">Patents</h5>
               <p class="card-text">
@@ -163,7 +163,7 @@
             <div class="col-md-10 offset-md-1 offset-lg-1">
               <div class="team-player">
                 <img
-                  src="img/stephen.jfif"
+                  src="img/stephen.jpg"
                   alt="Thumbnail Image"
                   class="rounded-circle img-fluid img-raised"
                 />
