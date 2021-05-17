@@ -29,7 +29,7 @@
             <h2 class="title">A Passion for Teaching</h2>
             <h5 class="description">
               Starting in high school when I joined 'Coding With Kids', I've found a passion for sharing my techincal knowledge with others. 
-              I spent years as a lead instructor teaching programming concepts to students of all ages, and even started teaching some of my own
+              I spent years as a lead instructor teaching students of all ages how to code, and even started teaching some of my own
                programming camps independently during summers. Since then I've continued to pursue this passion through educating my fellow peers about 
                internship opportunities, resume tips, and personal projects. 
                <br>

@@ -8,14 +8,14 @@
       </parallax>
       <div class="content-center">
         <div class="container">
-          <h1 class="title">This page is currently under maintinence</h1>
+          <h1 class="title">Research Papers</h1>
           <div class="text-center">
             <a
               href="https://dl.acm.org/doi/abs/10.1145/3411170.3411269"
               class="btn btn-primary btn-round"
               target="_blank"
             >
-              <b>But you can check out my research paper!</b>
+              <b>Read My Paper</b>
             </a>
           </div>
         </div>
