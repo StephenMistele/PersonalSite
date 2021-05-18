@@ -24,7 +24,7 @@
     <div class="section section-about-us">
       <div class="container">
         <div class="row">
-          <div class="col-md-8 ml-auto mr-auto text-center">
+          <div class="col-md-10 ml-auto mr-auto text-center">
             <h2 class="title">Our Journey</h2>
             <h5 class="description">
               Panterix started as a hackathon project during <a href="https://devpost.com/software/saferides-t7hqnf" target="_blank"> Hack for Humanity 2020. </a>
@@ -44,16 +44,13 @@
               </div>
             </center>
             <h5 class="description">
-              After the hackathon, I pitched the project to one of my professors. We started a research project as part of 
-              <a href="https://www.scu.edu/engineering/faculty/shaghaghi-navid/epic-lab/" target="_blank">Epic labs</a> 
-              with the intention of one day turning this idea into a buisness. 
-            </h5>
-            <h5 class="description">
-              Those dreams quickly became reality when we applied to Santa Clara's <a href="https://www.scu.edu/cioccacenter/bronco-ventures/bronco-venture-accelerator/" 
+              After the Hackathon, we decided that we wanted to move forward in developing a road safety application by turning our idea into a 
+              business. This dream quickly became reality when we applied to Santa Clara's <a href="https://www.scu.edu/cioccacenter/bronco-ventures/bronco-venture-accelerator/" 
               target="_blank">Bronco Venture Accelerator</a>.
               It was a very difficult and competitive application process, but against all odds we 
               <a href="https://airtable.com/shr2lLkVBKWiiuCnc/tblu7ghpgXFqkQrU4" target="_blank">got in</a>!
               At the end of the 10-week course we got to present our idea to hundreds of venture capitalist investors. Here was our pitch.
+              <br><br>
             </h5>
             <center>
               <div class="video-wrap">
@@ -64,7 +61,6 @@
                 </div>
               </div>
             </center>
-            <br/>
             <br/>
             <h2 class="title">Where are we now</h2>
             <h5 class="description">

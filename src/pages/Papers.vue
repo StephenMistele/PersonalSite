@@ -22,6 +22,41 @@
       </div>
     </div>
     <div class="separator separator-primary"></div>
+    <div class="section section-about-us">
+      <div class="container">
+        <div class="row">
+          <div class="col-md-10 ml-auto mr-auto text-center">
+            <h2 class="title">The Process</h2>
+             <h5 class="description">
+              After <a href="https://devpost.com/software/saferides-t7hqnf" target=_blank>Hack For Humanity 2020</a>, 
+              I decided to pitch the 'dangerous roads' project to my CS professor. He liked the idea and we started
+              a research project as part of 
+              <a href="https://www.scu.edu/engineering/faculty/shaghaghi-navid/epic-lab/" target="_blank">Epic labs</a> 
+              with the intention of spreading awareness about traffic fatalities and the technologies that can help mitigate them. 
+              Being passionate about the project, one way we thought to improve visibility on this issue was to write an academic
+              research paper. This process ran parallel to the work on <a href="#/Panterix">PANTERIX</a>, and consisted of things like the methodology
+              behind our algorithm, product ideas, and findings regarding the types of roads that are most dangerous. 
+              <br>
+              <br>
+              Together we co-authored and published the research paper by submitting it to the 
+              <a href="https://goodtechs.eai-conferences.org/2020/" target="_blank">Goodtechs Tech Conference</a>. 
+              The team elected myself and another to present our project - check it out!  
+              <br><br>
+            </h5>
+            <center>
+              <div class="video-wrap">
+                <div class="video-container">
+                  <iframe
+                    src="https://www.youtube.com/embed/d4Ib1GSBP0E"
+                  ></iframe>
+                </div>
+              </div>
+            </center>
+          </div>
+        </div>
+        <div class="separator separator-primary"></div>
+      </div>
+    </div>
   </div>
 </template>
 <script>

@@ -142,12 +142,12 @@
       <div class="col">
         <a href="#/Internships">
           <div class="card h-85">
-            <img src="img/patent.jpg" class="card-img-top" alt="..." />
+            <img src="img/internships.jpg" class="card-img-top" alt="..." />
             <div class="card-body">
-              <h5 class="card-title">Patents</h5>
+              <h5 class="card-title">Internships</h5>
               <p class="card-text">
-                As part of my internship at INRIX, I had the opportunity to
-                author a patent on the algorithm I created.
+                I've had a few opportunities to garner real world experience. 
+                Let me walk you through some of the things I've worked on.
               </p>
             </div>
             <div class="card-footer"></div>
