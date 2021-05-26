@@ -8,7 +8,7 @@
       </parallax>
       <div class="content-center">
         <div class="container">
-          <h1 class="title">This page is currently under maintinence</h1>
+          <h1 class="title">This page is currently under construction</h1>
           <div class="text-center">
             <a
               href="http://hackforhumanity.io/"
