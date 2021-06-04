@@ -46,7 +46,7 @@
               School teaching Scratch to classrooms full of students. Since
               then, I've led Hackathon teams, made websites and mobile apps, and
               even started my own buisness. <br />
-              Check out some of my projects! 
+              Check out some of my projects!
               <!--PANTERIX Founder&CEO. API+Backend
               Engineer. Published Author. Website Developer. Pantent Holder.
               Cloud Database Engineer. Teacher. Mobile App Developer. Project
@@ -146,7 +146,7 @@
             <div class="card-body">
               <h5 class="card-title">Internships</h5>
               <p class="card-text">
-                I've had a few opportunities to garner real world experience. 
+                I've had a few opportunities to garner real world experience.
                 Let me walk you through some of the things I've worked on.
               </p>
             </div>
@@ -183,8 +183,11 @@
                   backend in everything from C++ to SQL, with favorite
                   technologies being ASP.NET API's in C#, and working with cloud
                   databases in Azure Cosmos DB and AWS RDS. Feel free to check
-                  out my <a href="img/Resume.pdf" target="_blank">Resume</a>, connect with me on
-                  <a href="https://www.linkedin.com/in/stephenmistele/" target="_blank"
+                  out my <a href="img/Resume.pdf" target="_blank">Resume</a>,
+                  connect with me on
+                  <a
+                    href="https://www.linkedin.com/in/stephenmistele/"
+                    target="_blank"
                     >LinkedIn</a
                   >, or contact me below!
                 </p>
@@ -223,7 +226,7 @@
         </p>
         <div class="row">
           <div class="col-lg-6 text-center ml-auto mr-auto col-md-8">
-            <fg-input
+            <!--<fg-input
               class="input-lg"
               placeholder="First Name..."
               v-model="form.firstName"
@@ -246,12 +249,15 @@
                 v-model="form.message"
                 placeholder="Type a message..."
               ></textarea>
-            </div>
+            </div>-->
+            <!-- <a href= "mailto:stephen@panterix.com"> -->
+            <SCRIPT LANGUAGE="JavaScript">user = 'name';site = 'domain';document.write('<a href="mailto:' + user + '@' + site + '\">');document.write(user + '@' + site + '</a>');</SCRIPT>
             <div class="send-button">
               <n-button type="primary" round block size="lg"
                 >Send Message</n-button
               >
             </div>
+            <!-- </a> -->
           </div>
         </div>
       </div>
