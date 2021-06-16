@@ -226,38 +226,12 @@
         </p>
         <div class="row">
           <div class="col-lg-6 text-center ml-auto mr-auto col-md-8">
-            <!--<fg-input
-              class="input-lg"
-              placeholder="First Name..."
-              v-model="form.firstName"
-              addon-left-icon="now-ui-icons users_circle-08"
+            <a
+              href="mailto:meetstephenmistele@gmail.com"
+              class="btn btn-primary btn-round btn-lg"
             >
-            </fg-input>
-            <fg-input
-              class="input-lg"
-              placeholder="Email Here..."
-              v-model="form.email"
-              addon-left-icon="now-ui-icons ui-1_email-85"
-            >
-            </fg-input>
-            <div class="textarea-container">
-              <textarea
-                class="form-control"
-                name="name"
-                rows="4"
-                cols="80"
-                v-model="form.message"
-                placeholder="Type a message..."
-              ></textarea>
-            </div>-->
-            <!-- <a href= "mailto:stephen@panterix.com"> -->
-            <SCRIPT LANGUAGE="JavaScript">user = 'name';site = 'domain';document.write('<a href="mailto:' + user + '@' + site + '\">');document.write(user + '@' + site + '</a>');</SCRIPT>
-            <div class="send-button">
-              <n-button type="primary" round block size="lg"
-                >Send Message</n-button
-              >
-            </div>
-            <!-- </a> -->
+              <b>Send Message</b>
+            </a>
           </div>
         </div>
       </div>
