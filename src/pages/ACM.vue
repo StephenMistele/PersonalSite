@@ -1,9 +1,15 @@
 <template>
   <div>
     <div class="page-header page-header-small">
+      <Particles
+                id="tsparticles"
+                :particlesInit="particlesInit"
+                :particlesLoaded="particlesLoaded"
+                url="http://foo.bar/particles.json"
+        />
       <parallax
         class="page-header-image"
-        style="background-image: url('img/hackathonimg111.jpg')"
+        style="background-image: url('img/hackforhumanity.jpg')"
       >
       </parallax>
       <div class="content-center">
@@ -69,6 +75,8 @@
 </template>
 <script>
 import { Button, FormGroupInput } from "@/components";
+import Particles from "particles.vue";
+Vue.use(Particles);
 export default {
   name: "landing",
   bodyClass: "landing-page",
