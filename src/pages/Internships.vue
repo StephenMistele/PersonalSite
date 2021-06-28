@@ -41,7 +41,8 @@
               continue building my leadership skills and honing my coding abilities.
               <br>
               <br>
-              In the past I've also interned for the Discovery Institute to build a mobile app in React Native and taught as a full-time instructor for <a href="" target="_blank">Coding With Kids</a>.
+              In the past I've also interned for the Discovery Institute to build a mobile app in React Native and taught as a full-time instructor for 
+              <a href="" target="_blank">Coding With Kids</a>.
             </h5>
           </div>
         </div>
