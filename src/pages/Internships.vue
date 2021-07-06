@@ -26,7 +26,7 @@
       <div class="container">
         <div class="row">
           <div class="col-md-10 ml-auto mr-auto text-center">
-            <h2 class="title">Full Stack Developer and TPM</h2>
+            <h2 class="title">Full Stack Developer and Technical PM</h2>
             <h5 class="description">
               When developing <a href="#/Panterix">PANTERIX</a>, we needed accident data to build our product. I managed to secure this by 
               building a partnership with <a href="https://inrix.com/" target="_blank">INRIX</a> to supply the data. While negotiating for this accident data,
