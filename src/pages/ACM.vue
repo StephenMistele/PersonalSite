@@ -8,7 +8,7 @@
       </parallax>
       <div class="content-center">
         <div class="container">
-          <h1 class="title">Websites</h1>
+          <h1 class="title">ACM Websites</h1>
           <div class="text-center">
             <a
               href="http://hackforhumanity.io/"
@@ -42,16 +42,10 @@
               <br><br>
               The position I applied for, webmaster, was responsible for the creation and maintenance of ACM's websites. I was chosen over 7 other applicants, and have enjoyed
               both the frontend development and the ability to teach others about programming in the years since.
+              <br><br>
+              I've been involved in hosting various hackathons, leading workshops, and ultimately keeping ACM's sites looking good. I was responsible for maintaining 
+              ACM's central site and their equally important hackathon page. Check them out above! 
             </h5>
-            <center>
-              <div class="video-wrap">
-                <div class="video-container">
-                  <iframe
-                    src="https://www.youtube.com/embed/d4Ib1GSBP0E"
-                  ></iframe>
-                </div>
-              </div>
-            </center>
           </div>
         </div>
         <div class="separator separator-primary"></div>
