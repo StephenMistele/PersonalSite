@@ -177,14 +177,14 @@
                   occasional watersports. My passion for teaching is part of
                   what makes me a good leader, and it's why I've taken a
                   leadership role in every project listed above. As for my tech
-                  stack, I've spent notable time working frontend in Vue, React,
-                  and React Native, as well as Bootstrap, HTML and CSS. However,
-                  I've found that I'm especially passionate about working
-                  backend in everything from C++ to SQL, with favorite
-                  technologies being ASP.NET API's in C#, and working with cloud
-                  databases in Azure Cosmos DB and AWS RDS. Feel free to check
-                  out my <a href="img/Resume.pdf" target="_blank">Resume</a>,
-                  connect with me on
+                  stack, my favorite thing to work on are REST API's. Having written in everything from Express.js
+                  to C# .NET CORE, managing the manipulation and transfer of data between a DB and
+                  frontend is something I'm passionate about. That being said, I've also spent time
+                  developing cloud databases (AWS RDS in SQL, Mongo DB, Azure Cosmos, etc.), writing frontend in Vue.js,
+                  or even scripting in Unity with C#. I'm also familiar with Machine learning in Python and backend in c++/java.
+                  Finally, I have a passion for system design. Whether debating the use cases of relational vs noSQL DB's, or
+                  discussing best practices regarding GraphQL, Kubernetes, and Redis caching, I'm always ready to learn!
+                  Feel free to check out my <a href="img/Resume.pdf" target="_blank">Resume</a>, connect with me on
                   <a
                     href="https://www.linkedin.com/in/stephenmistele/"
                     target="_blank"

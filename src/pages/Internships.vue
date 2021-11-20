@@ -32,12 +32,12 @@
               building a partnership with <a href="https://inrix.com/" target="_blank">INRIX</a> to supply the data. While negotiating for this accident data,
               INRIX was so interested in our idea that they wanted to develop a similar danger product for themselves. We offered to build it, and
               they hired myself and the rest of PANTERIX as interns. At INRIX, I worked on everything from parsing through millions of 
-              rows of data in an AWS RDS PostgreSQL DB - to developing the danger algorithm itself - to distributing this data through ASP DOTNET REST API's
+              rows of data in an AWS RDS PostgreSQL DB - to developing the danger algorithm itself - to distributing this data through .NET CORE REST API's
               in C#.
               <br>
               <br>
               More recently I was given a return offer from INRIX to lead the next team of 15+ interns in continuing developing for 
-              their various <a href="https://iq.dev.inrix.com/" target="_blank">SaaS modules</a> as a technical PM. I'm hoping to use this opportunity to 
+              their various <a href="https://iq.inrix.com/" target="_blank">SaaS modules</a> as a technical PM. I'm hoping to use this opportunity to 
               continue building my leadership skills and honing my coding abilities.
               <br>
               <br>
